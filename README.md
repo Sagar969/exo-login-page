@@ -10,8 +10,8 @@ This Page is -
 
 ### Links
 
-- Solution URL: [click here](https://github.com/Sagar969/Aesthisia-assignment)
-- Live Site URL: [click here](https://sagar969.github.io/Aesthisia-assignment/)
+- Solution URL: [click here](https://github.com/Sagar969/exo-login-page)
+- Live Site URL: [click here](https://sagar969.github.io/exo-login-page/)
 
 ### Built with
 
